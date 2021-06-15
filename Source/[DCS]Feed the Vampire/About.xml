@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[DCS]Feed the Vampire</name>
+	<supportedVersions><li>1.0</li></supportedVersions>
+	<author>CapatinSnafu</author>
+	<url></url>
+	<description>
+	
+		This Mod add recipes which allow you turn [BloodBag] from my mod [Dead Can Serve] into [blood pack (lowblood)] from  Jecrell's mod  [Rim of Madness - Vampires].
+		
+		So yes, with this Submod, now you can feed your Vampires with the blood from Corpses.
+		
+		You can find the recipes in Stove or DrugLab.
+		
+		"A decent vampire will not take someone else's first-aid medicine for a drink.If you want to invite them to drink from the blood bag,at least first remove the medical label on the bag.Anyway,it won't taste well because it's only from the corpse."
+		
+		[Dead Can Serve] AND [Rim of Madness - Vampires] MUST BE LOADED BEFORE THIS MOD !!!!!
+		
+	</description>
+</ModMetaData>

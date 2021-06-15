@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>[DCS]Transfusion from Corpses</name>
+	<author>CaptainSnafu</author>
+	<supportedVersions>
+        <li>1.0</li>
+	</supportedVersions>
+	<description>
+	
+	In my mod [Dead Can Serve],you can draw blood from the corpses and simply use [blood bag] as medicine.
+	
+	In Dalrae's mod [Blood Pack], you can draw blood from the living people and use [blood pack] to do blood transfusion to cure blood loss.
+	
+	In this mod, you can turn my [blood bag] to [blood pack]. 
+	
+	So, yes, it means you can also do blood transfusion from corpse.
+	
+	This mod must be loaded behind the [Dead Can Serve] and [Blood Pack].
+
+	
+	</description>
+</ModMetaData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef>
+    <defName>MakeVampireDrink_DSC</defName>
+    <label>turn BloodBag into Vampire's Drink</label>
+    <description>A decent vampire will not take someone else's first-aid medicine for a drink.If you want to invite them to drink from the blood bag,at least first remove the medical label on the bag.Anyway,it won't taste well because it's only from the corpse.</description>
+    <jobString>Turn BloodBag into Vampire's Drink</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <workAmount>150</workAmount>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+      <li>DrugLab</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BloodBag</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <products>
+      <BloodPack_LowBlood>1</BloodPack_LowBlood>
+    </products>
+    <workSkill>Cooking</workSkill>
+  </RecipeDef>
+</Defs>

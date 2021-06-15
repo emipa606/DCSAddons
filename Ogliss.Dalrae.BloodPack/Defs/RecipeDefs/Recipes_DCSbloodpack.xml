@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef>
+    <defName>TurnBloodpack</defName>
+    <label>Turn blood bag to blood pack</label>
+    <description>make the blood which was drawn from the corpses can be used for transfusion.</description>
+    <jobString>Turning blood bag to blood pack.</jobString>
+    <workAmount>300</workAmount>
+    <workSpeedStat>ButcheryFleshSpeed</workSpeedStat>
+    <effectWorking>ButcherFlesh</effectWorking>
+    <soundWorking>Recipe_ButcherCorpseFlesh</soundWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BloodBag</li>
+          </thingDefs>
+        </filter>
+        <count>2</count>
+      </li>
+    </ingredients>
+    <products>
+      <BloodPack>1</BloodPack>
+    </products>
+    <workSkill>Medicine</workSkill>
+    <recipeUsers>
+      <li>DrugLab</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

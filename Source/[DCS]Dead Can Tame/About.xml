@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>[DCS]Dead Can Tame</name>
+	<author>CaptainSnafu</author>
+	<supportedVersions>
+        <li>1.0</li>
+	</supportedVersions>
+	<description>
+	
+	In my mod [Dead Can Serve],you can scan the memories from corpses and make them to psychic lances.
+	
+	In mod [More Lances],you can buy more kinds of psychic lancer.
+	
+	And with this mod, you can use MemoryDisk to make and upgrade some of these Lances.
+	
+	1.Can upgrade tamming lance to higher level (from small to medium to all)
+	2.Can upgarde Psychic Shock Lance to KnockOut Lance
+	3.Can turn Psychic Soothe Pulser to Brainwash Lance
+	
+	So yes, you can use dead people's memories to tame any living creatures or cool them down(...by knock them out) 
+	
+	This mod must be loaded behind the [Dead Can Serve] and [More Lances].
+
+	</description>
+</ModMetaData>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TurnBloodpack.label>将血袋转换为输血包</TurnBloodpack.label>
+  <TurnBloodpack.description>将从尸体里抽出来的血与伤患匹配一下，准备输血。</TurnBloodpack.description>
+  <TurnBloodpack.jobString>将血袋转换为输血包</TurnBloodpack.jobString>
+</LanguageData>

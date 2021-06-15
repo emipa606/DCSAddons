@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[DCS]Server Robot</name>
+  <author>CaptainSnafu</author>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>
+	
+	In my mod [Dead Can Serve],you can scan the memories from corpses and use them as AI.
+	
+	In Haplo's mod [Misc. Robots],you can buy independent and movable robots to free your pawns from cleaning and hauling.
+	
+	And with this mod, you can use MemoryDisk to build the Robots!! No need to wait for the trader and craft whenever and how many you want !!
+	
+	Of course, you need to unlock the research "Intelligent Servers" in [Dead Can Serve] techtree. Recipes are in the Fabrication Bench.
+	
+	If you think they cost too much or too less , feel free to report.
+	
+	This mod must be loaded after the [Dead Can Serve] and [More Misc. Robots]. Put it below these two mods in mods order setting !!
+
+	</description>
+</ModMetaData>

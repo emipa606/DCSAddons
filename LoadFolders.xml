@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.1>
+    <li>/</li>
+    <li IfModActive="Haplo.Miscellaneous.Robots">Haplo.Miscellaneous.Robots</li>
+    <li IfModActive="kamikoto00.Rimofmadness.Vampires">kamikoto00.Rimofmadness.Vampires</li>
+    <li IfModActive="battlemage64.MoreLances">battlemage64.MoreLances</li>
+    <li IfModActive="Ogliss.Dalrae.BloodPack">Ogliss.Dalrae.BloodPack</li>
+  </v1.1>
+  <v1.2>
+    <li>/</li>
+    <li IfModActive="Haplo.Miscellaneous.Robots">Haplo.Miscellaneous.Robots</li>
+    <li IfModActive="kamikoto00.Rimofmadness.Vampires">kamikoto00.Rimofmadness.Vampires</li>
+    <li IfModActive="battlemage64.MoreLances">battlemage64.MoreLances</li>
+    <li IfModActive="Ogliss.Dalrae.BloodPack">Ogliss.Dalrae.BloodPack</li>
+  </v1.2>
+</loadFolders>
