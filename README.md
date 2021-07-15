@@ -18,55 +18,50 @@ Instead of separate mods I bundled them together. It will load each addon depend
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
+
+[table]
+    [tr]
+        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
+[/td]
+        [td]https://github.com/emipa606/DCSAddons]![Image](https://i.imgur.com/kTkpTOE.png)
+[/td]
+    [/tr]
+[/table]
 	
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
-This mod adds some robots to buy from traders:
+# [DCS] DI Robot
 
-- Haulingbot
-     A small drone to help you hauling stuff around
-- Cleaningbot
-     A small robot to help keeping your home clean  
+DI for Dead Intelligence
+In my mod [Dead Can Serve],you can scan the memories from brains in corpses and use them as AI.
+In Haplo&apos;s mod https://steamcommunity.com/workshop/filedetails/?id=724602224][Misc. Robots],you can buy independent and movable robots to free your pawns from cleaning and hauling.
+And with this mod, you can use MemoryDisk to build the Robots!! No need to wait for the trader and craft whenever and how many you want !!
+Of course, you need to unlock the research &quot;Intelligent Servers&quot; in [Dead Can Serve] techtree. Recipes are in the Fabrication Bench.
 
+# [DCS]Feed the Vampire
 
+This Mod add recipes which allow you turn [BloodBag] from my mod [Dead Can Serve] into [blood pack (lowblood)] from Jecrell&apos;s mod https://steamcommunity.com/sharedfiles/filedetails/?id=2369553686][Rim of Madness - Vampires].
+So yes, with this Submod, now you can feed your Vampires with the blood from Corpses.
+You can find the recipes in Stove or DrugLab.
+&quot;A decent vampire will not take someone else&apos;s first-aid medicine for a drink.If you want to invite them to drink from the blood bag,at least first remove the medical label on the bag.Anyway,it won&apos;t taste well because it&apos;s only from the corpse.&quot;
 
-The source code for all Miscellaneous mods can be found on my GitHub:
-https://github.com/HaploX1/RimWorld-Miscellaneous_Source
+# [DCS]Dead Can Tame
 
-	
-[u]Hint for the load order:[/u]
-1st: Try the defined load order. 
-       -- If robots still make problems, move Misc. Robots and Misc. Robots++ at the END of your mod list
-Core
-...
-Misc. Core  (Not needed if you only use Misc. Robots)
-Misc. ... (-- other Miscellaneous Mods)
-Misc. Robots
-Misc. Robots++  /  other mod depending on Misc. Robots
-...
-	
+In my mod [Dead Can Serve],you can scan the memories from corpses and make them to psychic lances.
+In mod https://steamcommunity.com/workshop/filedetails/?id=1378849687][More Lances],you can buy more kinds of psychic lance.
+And with this mod, you can use Memory Disk to make and upgrade some of these Lances.
+1.Can upgrade tamming lance to higher level (from small to medium to all)
+2.Can upgarde Psychic Shock Lance to KnockOut Lance
+3.Can turn Psychic Soothe Pulser to Brainwash Lance
+So yes, you can use dead people&apos;s memories to tame any living creatures or cool them down(...by knock them out)
+of course, you need to finish the research Psychic Interference or Memory Modification in Dead Can Serve mod.
 
-[u]Known Incompatibilities/Issues:[/u]
-- Misc Robots is incompatible to **Base Robots**.
-- Misc. Robots is compatible to Deep Storage, but you have to reduce 
-  the required intelligence in the Deep Storage Mod Settings
-- Mods that add lots of traders may reduce the chance that you can find a base station
-- If you can't repair your robot, make sure that there is enough free space for the ingredients around the base
-  It needs at least three free spaces!
+# [DCS]Transfusion from Corpses
 
-Special thanks to mrofa and Vas for the graphics.
-(Version: 1.2.5)
-Language: English, German, Russian, Chinese
-
-Thanks to duduluu and Biscuit for the Chinese translation 
-Thanks to AlexDeluxe and Well for the Russian translation
-
-Hints:
-- The robots here can only be bought, not crafted. 
-   - **New** Since 1.1 you can craft them once you've researched 'Fabrication'
-- You can assign them to an area by clicking on the area name in the robot info panel or in the Robots tab.
-- Before a fight you are encouraged to recall the robots so they don't accidently wander into the fight area.
-- If you want to finetune the robots, there exists a mod thanks to EgotisticalElf: https://steamcommunity.com/sharedfiles/filedetails/?id=2271338001]MiscRobots WorkTab Support
+In my mod [Dead Can Serve],you can draw blood from the corpses and simply use [blood bag] as medicine.
+In Dalrae&apos;s mod https://steamcommunity.com/sharedfiles/filedetails/?id=2192662471][Blood Pack], you can draw blood from the living people and use [blood pack] to do blood transfusion to cure blood loss.
+In this mod, you can turn my [blood bag] to [blood pack].
+So, yes, it means you can also do blood transfusion from corpse.
 
 ![Image](https://i.imgur.com/Rs6T6cr.png)
 
