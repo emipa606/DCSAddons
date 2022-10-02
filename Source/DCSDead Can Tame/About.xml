@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>[DCS]Dead Can Tame</name>
-	<author>CaptainSnafu</author>
-	<supportedVersions>
-        <li>1.0</li>
-	</supportedVersions>
-	<description>
+  <name>[DCS]Dead Can Tame</name>
+  <author>CaptainSnafu</author>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>
 	
 	In my mod [Dead Can Serve],you can scan the memories from corpses and make them to psychic lances.
 	

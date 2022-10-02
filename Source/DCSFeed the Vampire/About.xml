@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>[DCS]Feed the Vampire</name>
-	<supportedVersions><li>1.0</li></supportedVersions>
-	<author>CapatinSnafu</author>
-	<url></url>
-	<description>
+  <name>[DCS]Feed the Vampire</name>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <author>CapatinSnafu</author>
+  <url>
+  </url>
+  <description>
 	
 		This Mod add recipes which allow you turn [BloodBag] from my mod [Dead Can Serve] into [blood pack (lowblood)] from  Jecrell's mod  [Rim of Madness - Vampires].
 		

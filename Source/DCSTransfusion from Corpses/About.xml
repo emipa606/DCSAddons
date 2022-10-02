@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>[DCS]Transfusion from Corpses</name>
-	<author>CaptainSnafu</author>
-	<supportedVersions>
-        <li>1.0</li>
-	</supportedVersions>
-	<description>
+  <name>[DCS]Transfusion from Corpses</name>
+  <author>CaptainSnafu</author>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>
 	
 	In my mod [Dead Can Serve],you can draw blood from the corpses and simply use [blood bag] as medicine.
 	
